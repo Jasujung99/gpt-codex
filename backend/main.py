@@ -1,8 +1,8 @@
 from fastapi import FastAPI
 import uvicorn
 
-import users
-import projects
+from backend import users
+from backend import projects
 
 app = FastAPI()
 
