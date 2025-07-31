@@ -52,7 +52,7 @@ npm start
 다음 명령을 실행하면 매초 색이 바뀌는 별을 그리는 간단한 예제를 볼 수 있습니다:
 
 ```bash
-python examples/star_drawing.py
+python ex/star_drawing.py
 ```
 
 ### 기여
