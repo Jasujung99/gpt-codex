@@ -47,6 +47,14 @@ cd frontend
 npm start
 ```
 
+### 예제: 반짝이는 별 그리기
+
+다음 명령을 실행하면 매초 색이 바뀌는 별을 그리는 간단한 예제를 볼 수 있습니다:
+
+```bash
+python examples/star_drawing.py
+```
+
 ### 기여
 
 이 저장소로 풀 리퀘스트를 보내 기여해 주세요.
@@ -98,6 +106,14 @@ Launch the frontend development server:
 ```bash
 cd frontend
 npm start
+```
+
+### Example: Sparkling Star Drawing
+
+Run the sample program to draw a colorful star that changes colors every second:
+
+```bash
+python examples/star_drawing.py
 ```
 
 ### Contributing
