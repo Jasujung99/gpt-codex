@@ -4,7 +4,7 @@
 
 Codex Kids는 어린 학습자가 코딩 개념을 쉽게 이해할 수 있도록 돕는 시각적 프로그래밍 플랫폼입니다. 단계별 실습을 통해 점차 고급 개념을 배우며, 최종적으로 데이터 과학과 인공지능 학습을 준비하도록 설계되었습니다.
 
-자세한 내용은 [기술 계획서](code-kids-technical-plan.md)를 참고하세요.
+자세한 내용은 [기술 계획서](docs/code-kids-technical-plan-kor.md)를 참고하세요.
 
 ## 설치
 
@@ -57,7 +57,7 @@ npm start
 
 Codex Kids is a visual programming platform designed to help young learners discover coding concepts. The project aims to offer hands-on lessons that gradually introduce more advanced topics and ultimately prepare students for data science and AI.
 
-See the [technical plan](code-kids-technical-plan.md) for a full breakdown of the architecture and features.
+See the [technical plan](docs/code-kids-technical-plan-kor.md) for a full breakdown of the architecture and features.
 
 ## Setup
 
@@ -102,14 +102,12 @@ npm start
 
 ### Contributing
 
-Please submit issues and pull requests to this repository. Contributions for both the frontend and backend are welcome.\
+Please submit issues and pull requests to this repository. Contributions for both the frontend and backend are welcome.
 
-===
 
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
->>>>>>> main
 
 # English overview
 
