@@ -113,7 +113,7 @@ npm start
 Run the sample program to draw a colorful star that changes colors every second:
 
 ```bash
-python examples/star_drawing.py
+python ex/star_drawing.py
 ```
 
 ### Contributing
