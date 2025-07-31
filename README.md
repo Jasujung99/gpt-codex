@@ -55,6 +55,14 @@ npm start
 python ex/star_drawing.py
 ```
 
+### 예제: 확장형 별 패턴
+
+여러 크기와 색상의 별을 순차적으로 그리는 심화 예제:
+
+```bash
+python ex/star_drawing_advanced.py
+```
+
 ### 기여
 
 이 저장소로 풀 리퀘스트를 보내 기여해 주세요.
@@ -114,6 +122,14 @@ Run the sample program to draw a colorful star that changes colors every second:
 
 ```bash
 python ex/star_drawing.py
+```
+
+### Example: Expanding Star Pattern
+
+Run the advanced star drawing program to see multiple stars with varying sizes and colors:
+
+```bash
+python ex/star_drawing_advanced.py
 ```
 
 ### Contributing
