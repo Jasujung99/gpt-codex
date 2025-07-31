@@ -1,6 +1,6 @@
 # Codex Kids - Technical Plan (English Summary)
 
-This document summarizes the key points of `code-kids-technical-plan.md` to help English-speaking contributors understand the project.
+This document summarizes the key points of `code-kids-technical-plan-kor.md` to help English-speaking contributors understand the project.
 
 ## 1. Project Overview
 
