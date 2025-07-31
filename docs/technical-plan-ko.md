@@ -1,6 +1,6 @@
 # Codex Kids - 기술 계획 요약 (한국어)
 
-이 문서는 `code-kids-technical-plan.md`의 핵심 내용을 간략히 정리한 것입니다.
+이 문서는 `code-kids-technical-plan-kor.md`의 핵심 내용을 간략히 정리한 것입니다.
 
 ## 1. 프로젝트 개요
 
