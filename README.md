@@ -63,6 +63,10 @@ python ex/star_drawing.py
 python ex/star_drawing_advanced.py
 ```
 
+### 퀴즈: 언어 비교
+
+언어별 코드 변환 연습 퀴즈를 풀어보세요. 자세한 인터페이스는 [multi-language-ux-ko.md](docs/multi-language-ux-ko.md) 문서를 참고하세요.
+
 ### 기여
 
 이 저장소로 풀 리퀘스트를 보내 기여해 주세요.
@@ -131,6 +135,10 @@ Run the advanced star drawing program to see multiple stars with varying sizes a
 ```bash
 python ex/star_drawing_advanced.py
 ```
+
+### Quiz: Language Comparison
+
+Try the code matching quiz to practice converting snippets between languages. The quiz uses the planned CodeTranslator interface described in [multi-language-ux.md](docs/multi-language-ux.md). A Korean translation is available in [multi-language-ux-ko.md](docs/multi-language-ux-ko.md).
 
 ### Contributing
 
