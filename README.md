@@ -44,8 +44,10 @@ uvicorn main:app --reload
 
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
+
+브라우저에서 http://localhost:3000 을 열면 Python과 JavaScript 코드를 나란히 보여주는 CodeMatch 데모를 확인할 수 있습니다.
 
 ### 예제: 반짝이는 별 그리기
 
@@ -117,8 +119,10 @@ Launch the frontend development server:
 
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
+
+Open http://localhost:3000 in your browser to see the CodeMatch demo displaying Python and JavaScript snippets side by side.
 
 ### Example: Sparkling Star Drawing
 
