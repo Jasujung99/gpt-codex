@@ -1,3 +1,5 @@
 export default defineNuxtConfig({
-    // Nuxt configuration
+  components: {
+    dirs: ['components']
+  }
 })
